@@ -1,5 +1,5 @@
 
-# Esta funcion elimina los individuos que se componen de al menos una base de tipo 'U'
+# Esta funcion elimina a los individuos que se componen de al menos una base de tipo 'U'
 # dentro del arreglo definido como argumento y retorna la cantidad que fueron eliminados
 def DeleteInd(indvs)
   deleted = 0
